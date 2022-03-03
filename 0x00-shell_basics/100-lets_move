@@ -1,0 +1,2 @@
+#!bib/bash
+mv *[A-Z] /tmp/u
